@@ -8,4 +8,4 @@ repository = "https://github.com/medienbaecker/zed-kirby-content"
 
 [grammars.kirby_content]
 repository = "https://github.com/medienbaecker/tree-sitter-kirby-content"
-rev = "main"
+rev = "07beb8b482be95bdd47e09defd767bc03d0b0599"
