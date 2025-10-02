@@ -1,0 +1,5 @@
+name = "Kirby Content"
+grammar = "kirby_content"
+path_suffixes = ["md", "txt"]
+line_comments = []
+block_comment = []
